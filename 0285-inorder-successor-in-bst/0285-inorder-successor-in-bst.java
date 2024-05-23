@@ -8,27 +8,20 @@
  * }
  */
 class Solution {
-    List<TreeNode> allNodes = new ArrayList<>();
+    TreeNode ans = null;
     
-
-    void inorderTraverse(TreeNode root) {
-        if (root == null) return;
-        inorderTraverse(root.left);
-        allNodes.add(root);
-        inorderTraverse(root.right);
-    }
-
     public TreeNode inorderSuccessor(TreeNode root, TreeNode p) {
-        inorderTraverse(root);
-        
-        for (int i = 0; i < allNodes.size()-1; i++) {
-            TreeNode node = allNodes.get(i);
-            if (node.val == p.val) {
-                return allNodes.get(i+1);
+        TreeNode node = root;
+        while (node != null) {
+            if (node.val <= p.val) {
+                node = node.right;
+            }
+            else {
+                ans = node;
+                node = node.left;
             }
         }
 
-        return null;
+        return ans;
     }
-        
 }
