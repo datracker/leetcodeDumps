@@ -1,20 +1,19 @@
 class Solution {
     public int appendCharacters(String s, String t) {
         if(s.equals(t)) return 0;
-        int lastIdx = 0;
-        int startIdx = 0;
+        int i = 0, j = 0;
         char[] sChar = s.toCharArray();
         char[] tChar = t.toCharArray();
 
-        while (lastIdx < t.length()) {
-            while (startIdx < s.length() && sChar[startIdx] != tChar[lastIdx]) {
-                startIdx++;
+        for (; i < sChar.length; i++) {
+            if (sChar[i] == tChar[j]) {
+                j++;
             }
-            if (startIdx == s.length()) break;
-            startIdx++;
-            lastIdx++;            
+            if (j == tChar.length) {
+                return 0;
+            }
         }
 
-        return t.length() - lastIdx;
+        return tChar.length - j;
     }
 }
