@@ -3,8 +3,11 @@ class Solution {
         if(s.equals(t)) return 0;
         int lastIdx = 0;
         int startIdx = 0;
+        char[] sChar = s.toCharArray();
+        char[] tChar = t.toCharArray();
+
         while (lastIdx < t.length()) {
-            while (startIdx < s.length() && s.charAt(startIdx) != t.charAt(lastIdx)) {
+            while (startIdx < s.length() && sChar[startIdx] != tChar[lastIdx]) {
                 startIdx++;
             }
             if (startIdx == s.length()) break;
