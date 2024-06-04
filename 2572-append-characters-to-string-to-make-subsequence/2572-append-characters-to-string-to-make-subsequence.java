@@ -5,15 +5,18 @@ class Solution {
         char[] sChar = s.toCharArray();
         char[] tChar = t.toCharArray();
 
-        for (; i < sChar.length; i++) {
+        int m = sChar.length;
+        int n = tChar.length;
+
+        for (; i < m; i++) {
             if (sChar[i] == tChar[j]) {
                 j++;
             }
-            if (j == tChar.length) {
+            if (j == n) {
                 return 0;
             }
         }
 
-        return tChar.length - j;
+        return n - j;
     }
 }
