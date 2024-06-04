@@ -1,5 +1,6 @@
 class Solution {
     public int appendCharacters(String s, String t) {
+        if(s.equals(t)) return 0;
         int lastIdx = 0;
         int startIdx = 0;
         while (lastIdx < t.length()) {
