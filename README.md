@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/datracker/leetcodeDumps/tree/master/0409-longest-palindrome) |
+| [3379-score-of-a-string](https://github.com/datracker/leetcodeDumps/tree/master/3379-score-of-a-string) |
 # Greedy
 |  |
 | ------- |
