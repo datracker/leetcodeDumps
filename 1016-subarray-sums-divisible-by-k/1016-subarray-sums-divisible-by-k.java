@@ -1,25 +1,32 @@
-class Solution {
+public class Solution {
     public int subarraysDivByK(int[] nums, int k) {
+        // Initialize count of subarrays, prefix sum, and hash map for remainders
         int count = 0;
-        Map<Integer, Integer> prefixSumCount = new HashMap<>();
-        prefixSumCount.put(0, 1);
-        
-        int sum = 0;
+        int prefixSum = 0;
+        HashMap<Integer, Integer> prefixMap = new HashMap<>();
+        prefixMap.put(0, 1); // To handle subarrays that start from the beginning
+
         for (int num : nums) {
-            sum += num;
-
-            int prevSumNeeded = sum % k;
-            if (prevSumNeeded < 0) {
-                prevSumNeeded += k;
+            // Update prefix sum
+            prefixSum += num;
+            
+            // Calculate the remainder of the prefix sum divided by k
+            int mod = prefixSum % k;
+            
+            // Adjust negative remainders to be positive
+            if (mod < 0) {
+                mod += k;
             }
-
-            if (prefixSumCount.containsKey(prevSumNeeded)) {
-                count += prefixSumCount.get(prevSumNeeded);
+            
+            // If this remainder has been seen before, it means there are subarrays ending here that are divisible by k
+            if (prefixMap.containsKey(mod)) {
+                count += prefixMap.get(mod);
+                prefixMap.put(mod, prefixMap.get(mod) + 1);
+            } else {
+                prefixMap.put(mod, 1);
             }
-
-            prefixSumCount.put(prevSumNeeded, prefixSumCount.getOrDefault(prevSumNeeded, 0) + 1);
         }
-
-        return count;
+        
+        return count; // Total number of subarrays divisible by k
     }
 }
