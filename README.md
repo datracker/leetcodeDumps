@@ -8,6 +8,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/datracker/leetcodeDumps/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/datracker/leetcodeDumps/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/datracker/leetcodeDumps/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/datracker/leetcodeDumps/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/datracker/leetcodeDumps/tree/master/1044-find-common-characters) |
 # String
 |  |
@@ -35,6 +36,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/datracker/leetcodeDumps/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/datracker/leetcodeDumps/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/datracker/leetcodeDumps/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/datracker/leetcodeDumps/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/datracker/leetcodeDumps/tree/master/1044-find-common-characters) |
 # Sorting
 |  |
@@ -52,3 +54,4 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/datracker/leetcodeDumps/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/datracker/leetcodeDumps/tree/master/1016-subarray-sums-divisible-by-k) |
