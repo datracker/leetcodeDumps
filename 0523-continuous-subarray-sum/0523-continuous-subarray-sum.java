@@ -11,8 +11,11 @@ class Solution {
             if (prefixRemainderIdx.containsKey(rem) && (i-prefixRemainderIdx.get(rem)) > 1) {
                 return true;
             }
-            prefixRemainderIdx.put(rem, 
-                Math.min(i, prefixRemainderIdx.getOrDefault(rem, Integer.MAX_VALUE)));
+            else if (!prefixRemainderIdx.containsKey(rem)) {
+                prefixRemainderIdx.put(rem, i);
+            }
+            // prefixRemainderIdx.put(rem, 
+            //     Math.min(i, prefixRemainderIdx.getOrDefault(rem, Integer.MAX_VALUE)));
         }
 
         return false;
