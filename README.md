@@ -32,6 +32,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/datracker/leetcodeDumps/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/datracker/leetcodeDumps/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
@@ -74,3 +75,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/datracker/leetcodeDumps/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/datracker/leetcodeDumps/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/datracker/leetcodeDumps/tree/master/0633-sum-of-square-numbers) |
