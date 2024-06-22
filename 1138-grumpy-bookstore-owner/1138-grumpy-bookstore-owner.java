@@ -16,8 +16,9 @@ class Solution {
                     window -= customers[left];
                 }
                 left++;
-            }
-            max_window = Math.max(max_window, window);
+                
+            }   
+            max_window = Math.max(max_window, window);         
         }
 
         return total_satisfied + max_window;
