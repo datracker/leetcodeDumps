@@ -25,6 +25,7 @@
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/datracker/leetcodeDumps/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/datracker/leetcodeDumps/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/datracker/leetcodeDumps/tree/master/0876-hand-of-straights) |
 | [1304-longest-happy-string](https://github.com/datracker/leetcodeDumps/tree/master/1304-longest-happy-string) |
@@ -38,6 +39,7 @@
 # Array
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/datracker/leetcodeDumps/tree/master/0330-patching-array) |
 | [0523-continuous-subarray-sum](https://github.com/datracker/leetcodeDumps/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/datracker/leetcodeDumps/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/datracker/leetcodeDumps/tree/master/0560-subarray-sum-equals-k) |
