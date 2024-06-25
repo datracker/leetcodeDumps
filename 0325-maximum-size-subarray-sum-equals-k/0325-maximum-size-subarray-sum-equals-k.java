@@ -1,5 +1,8 @@
 class Solution {
     public int maxSubArrayLen(int[] nums, int k) {
+        if(nums == null || nums.length == 0) { // 1
+           return 0;
+        }
         Map<Integer, Integer> prefixSum = new HashMap<>();
 
         int sum = 0;
