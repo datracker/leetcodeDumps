@@ -4,6 +4,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/datracker/leetcodeDumps/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0409-longest-palindrome](https://github.com/datracker/leetcodeDumps/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/datracker/leetcodeDumps/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/datracker/leetcodeDumps/tree/master/0525-contiguous-array) |
@@ -39,6 +40,7 @@
 # Array
 |  |
 | ------- |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/datracker/leetcodeDumps/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0330-patching-array](https://github.com/datracker/leetcodeDumps/tree/master/0330-patching-array) |
 | [0523-continuous-subarray-sum](https://github.com/datracker/leetcodeDumps/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/datracker/leetcodeDumps/tree/master/0525-contiguous-array) |
@@ -68,6 +70,7 @@
 # Prefix Sum
 |  |
 | ------- |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/datracker/leetcodeDumps/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0523-continuous-subarray-sum](https://github.com/datracker/leetcodeDumps/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/datracker/leetcodeDumps/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/datracker/leetcodeDumps/tree/master/0560-subarray-sum-equals-k) |
