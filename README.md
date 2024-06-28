@@ -98,3 +98,7 @@
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/datracker/leetcodeDumps/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/datracker/leetcodeDumps/tree/master/1370-count-number-of-nice-subarrays) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/datracker/leetcodeDumps/tree/master/1916-find-center-of-star-graph) |
