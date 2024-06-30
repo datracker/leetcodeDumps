@@ -102,3 +102,18 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/datracker/leetcodeDumps/tree/master/1916-find-center-of-star-graph) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1304-longest-happy-string](https://github.com/datracker/leetcodeDumps/tree/master/1304-longest-happy-string) |
+## Greedy
+|  |
+| ------- |
+| [1304-longest-happy-string](https://github.com/datracker/leetcodeDumps/tree/master/1304-longest-happy-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1304-longest-happy-string](https://github.com/datracker/leetcodeDumps/tree/master/1304-longest-happy-string) |
+<!---LeetCode Topics End-->
