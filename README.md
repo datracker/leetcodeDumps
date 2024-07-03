@@ -112,6 +112,7 @@
 |  |
 | ------- |
 | [1304-longest-happy-string](https://github.com/datracker/leetcodeDumps/tree/master/1304-longest-happy-string) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/datracker/leetcodeDumps/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -132,4 +133,12 @@
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/datracker/leetcodeDumps/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Array
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/datracker/leetcodeDumps/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Sorting
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/datracker/leetcodeDumps/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 <!---LeetCode Topics End-->
