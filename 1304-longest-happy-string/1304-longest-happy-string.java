@@ -1,42 +1,41 @@
 class Solution {
-    class Pair {
-        char ch;
-        int count;
-    
-        Pair(char ch, int count) {
-            this.ch = ch;
-            this.count = count;
-        }
-    }
-
     public String longestDiverseString(int a, int b, int c) {
-        PriorityQueue<Pair> pq = new PriorityQueue<>((x, y) -> y.count - x.count);
-        if (a > 0) pq.add(new Pair('a', a));
-        if (b > 0) pq.add(new Pair('b', b));
-        if (c > 0) pq.add(new Pair('c', c));
-        
-        StringBuilder result = new StringBuilder();
-        
+        //priority queue impl
+        //a = 1, b = 2, c = 3
+        PriorityQueue<int[]> pq = new PriorityQueue<>((x, y) -> Integer.compare(y[0], x[0]));
+
+        if (a > 0) pq.offer(new int[] {a, 0});
+        if (b > 0) pq.offer(new int[] {b, 1});
+        if (c > 0) pq.offer(new int[] {c, 2});
+
+        StringBuilder sb = new StringBuilder();
+
         while (!pq.isEmpty()) {
-            Pair first = pq.poll();
-            
-            if (result.length() >= 2 && result.charAt(result.length() - 1) == first.ch && result.charAt(result.length() - 2) == first.ch) {
-                if (pq.isEmpty()) break; // No other character to use, can't continue
-                
-                Pair second = pq.poll();
-                result.append(second.ch);
-                second.count--;
-                
-                if (second.count > 0) pq.add(second);
-                pq.add(first); // Put first back for future consideration
-            } else {
-                result.append(first.ch);
-                first.count--;
-                
-                if (first.count > 0) pq.add(first);
+            int[] toAdd = pq.poll();
+            char c1 = (char) (toAdd[1] + 'a');
+            int n = sb.length();
+
+            if (n >= 2 && sb.charAt(n-1) == c1 && sb.charAt(n-2) == c1) {
+                if (!pq.isEmpty()) {
+                    int[] toAdd2 = pq.poll();
+                    char c2 = (char) (toAdd2[1] + 'a');
+                    sb.append(c2);
+                    toAdd2[0]--;
+                    if (toAdd2[0] > 0) {
+                        pq.offer(toAdd2);
+                    }
+                    pq.offer(toAdd);
+                }                
+            }
+            else {
+                sb.append(c1);
+                toAdd[0]--;
+                if (toAdd[0] > 0) {
+                    pq.offer(toAdd);
+                }
             }
         }
-        
-        return result.toString();
+
+        return sb.toString();
     }
 }
