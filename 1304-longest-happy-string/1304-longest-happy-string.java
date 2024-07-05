@@ -1,37 +1,67 @@
 class Solution {
     public String longestDiverseString(int a, int b, int c) {
-        //priority queue impl
-        //a = 1, b = 2, c = 3
-        PriorityQueue<int[]> pq = new PriorityQueue<>((x, y) -> Integer.compare(y[0], x[0]));
-
-        if (a > 0) pq.offer(new int[] {a, 0});
-        if (b > 0) pq.offer(new int[] {b, 1});
-        if (c > 0) pq.offer(new int[] {c, 2});
-
+        int n = a+b+c;
+        int ca = 0, cb = 0, cc = 0;
+        
         StringBuilder sb = new StringBuilder();
-
-        while (!pq.isEmpty()) {
-            int[] toAdd = pq.poll();
-            char c1 = (char) (toAdd[1] + 'a');
-            int n = sb.length();
-
-            if (n >= 2 && sb.charAt(n-1) == c1 && sb.charAt(n-2) == c1) {
-                if (!pq.isEmpty()) {
-                    int[] toAdd2 = pq.poll();
-                    char c2 = (char) (toAdd2[1] + 'a');
-                    sb.append(c2);
-                    toAdd2[0]--;
-                    if (toAdd2[0] > 0) {
-                        pq.offer(toAdd2);
-                    }
-                    pq.offer(toAdd);
+        for (int i = 0; i < n; i++) {
+            if (ca == 2) {
+                if (b > c) {
+                    sb.append('b');
+                    b--;
+                    cb++;
+                    ca = 0;
+                }
+                else if (c > 0) {
+                    sb.append('c');
+                    c--;
+                    cc++;
+                    ca = 0;
+                }
+            }
+            else if (cb == 2) {
+                if (a > c) {
+                    sb.append('a');
+                    a--;
+                    ca++;
+                    cb = 0;
+                }
+                else if (c > 0) {
+                    sb.append('c');
+                    c--;
+                    cc++;
+                    cb = 0;
+                }                
+            }
+            else if (cc == 2) {
+                if (b > a) {
+                    sb.append('b');
+                    b--;
+                    cb++;
+                    cc = 0;
+                }
+                else if (a > 0) {
+                    sb.append('a');
+                    a--;
+                    ca++;
+                    cc = 0;
                 }                
             }
             else {
-                sb.append(c1);
-                toAdd[0]--;
-                if (toAdd[0] > 0) {
-                    pq.offer(toAdd);
+                if (a > 0 && a >= b && a >= c) {
+                    sb.append('a');
+                    a--;
+                    ca++;
+                }
+                else if (b > 0 && b >= a && b >= c) {
+                    sb.append('b');
+                    b--;
+                    cb++;
+                }
+                else if (c > 0) {
+                    sb.append('c');
+                    c--;
+                    cc++;
                 }
             }
         }
