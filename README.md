@@ -107,6 +107,7 @@
 ## String
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/datracker/leetcodeDumps/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/datracker/leetcodeDumps/tree/master/1304-longest-happy-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/datracker/leetcodeDumps/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Greedy
@@ -174,4 +175,8 @@
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/datracker/leetcodeDumps/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Stack
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/datracker/leetcodeDumps/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
