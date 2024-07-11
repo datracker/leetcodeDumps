@@ -113,6 +113,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/datracker/leetcodeDumps/tree/master/0330-patching-array) |
 | [1304-longest-happy-string](https://github.com/datracker/leetcodeDumps/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/datracker/leetcodeDumps/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Heap (Priority Queue)
@@ -138,6 +139,7 @@
 ## Array
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/datracker/leetcodeDumps/tree/master/0330-patching-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/datracker/leetcodeDumps/tree/master/1370-count-number-of-nice-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/datracker/leetcodeDumps/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/datracker/leetcodeDumps/tree/master/1803-average-waiting-time) |
