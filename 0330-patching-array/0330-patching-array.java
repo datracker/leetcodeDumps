@@ -1,15 +1,19 @@
 class Solution {
     public int minPatches(int[] nums, int n) {
-        int patches = 0, i = 0;
-        long miss = 1; // use long to avoid integer overflow error
+        long miss = 1;
+        int i = 0;
+        int patches = 0;
         while (miss <= n) {
-            if (i < nums.length && nums[i] <= miss) // miss is covered
-                miss += nums[i++];
-            else { // patch miss to the array
+            if (i < nums.length && nums[i] <= miss) {
+                miss += nums[i];
+                i++;
+            }
+            else {
+                patches++;
                 miss += miss;
-                patches++; // increase the answer
             }
         }
+
         return patches;
     }
 }
