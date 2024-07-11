@@ -1,29 +1,26 @@
 class Solution {
-    public String reverseParentheses(String s) {
-        Stack<Character> stk = new Stack();
-        Queue<Character> q = new LinkedList<>();
+    int i = 0;
+    public String reverseParentheses(String s) {        
+        return helper(s.toCharArray());
+    }
 
+    private String helper(char[] cArr) {
         StringBuilder sb = new StringBuilder();
-        for (char c : s.toCharArray()) {
-            if (c == ')') {
-                while (!stk.isEmpty() && stk.peek() != '(') {
-                    q.offer(stk.pop());
-                }
-                if (!stk.isEmpty() && stk.peek() == '(') {
-                    stk.pop();
-                }
-                while (!q.isEmpty()) {
-                    stk.push(q.poll());
-                }
+        while (i < cArr.length) {
+            if (cArr[i] == '(') {
+                i++;
+                sb.append(helper(cArr));
+            }
+            else if (cArr[i] == ')') {                
+                i++;
+                return sb.reverse().toString();
             }
             else {
-                stk.push(c);
+                sb.append(cArr[i]);
+                i++;
             }
         }
 
-        while (!stk.isEmpty()) {
-            sb.append(stk.pop());
-        }
-        return sb.reverse().toString();
+        return sb.toString();
     }
 }
