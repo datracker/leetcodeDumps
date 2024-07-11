@@ -148,6 +148,7 @@
 ## Linked List
 |  |
 | ------- |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/datracker/leetcodeDumps/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/datracker/leetcodeDumps/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
