@@ -126,6 +126,7 @@
 | [0975-range-sum-of-bst](https://github.com/datracker/leetcodeDumps/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/datracker/leetcodeDumps/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/datracker/leetcodeDumps/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/datracker/leetcodeDumps/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/datracker/leetcodeDumps/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/datracker/leetcodeDumps/tree/master/1207-delete-nodes-and-return-forest) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/datracker/leetcodeDumps/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -214,4 +216,5 @@
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/datracker/leetcodeDumps/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/datracker/leetcodeDumps/tree/master/1207-delete-nodes-and-return-forest) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/datracker/leetcodeDumps/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 <!---LeetCode Topics End-->
