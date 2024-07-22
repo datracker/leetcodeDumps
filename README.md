@@ -110,6 +110,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/datracker/leetcodeDumps/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/datracker/leetcodeDumps/tree/master/1304-longest-happy-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/datracker/leetcodeDumps/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2502-sort-the-people](https://github.com/datracker/leetcodeDumps/tree/master/2502-sort-the-people) |
 ## Greedy
 |  |
 | ------- |
@@ -149,11 +150,13 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/datracker/leetcodeDumps/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/datracker/leetcodeDumps/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/datracker/leetcodeDumps/tree/master/1803-average-waiting-time) |
+| [2502-sort-the-people](https://github.com/datracker/leetcodeDumps/tree/master/2502-sort-the-people) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/datracker/leetcodeDumps/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Sorting
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/datracker/leetcodeDumps/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/datracker/leetcodeDumps/tree/master/2502-sort-the-people) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/datracker/leetcodeDumps/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Linked List
 |  |
@@ -172,6 +175,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/datracker/leetcodeDumps/tree/master/1207-delete-nodes-and-return-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/datracker/leetcodeDumps/tree/master/1370-count-number-of-nice-subarrays) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/datracker/leetcodeDumps/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2502-sort-the-people](https://github.com/datracker/leetcodeDumps/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
