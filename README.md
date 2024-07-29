@@ -151,6 +151,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/datracker/leetcodeDumps/tree/master/1333-sort-the-jumbled-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/datracker/leetcodeDumps/tree/master/1370-count-number-of-nice-subarrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/datracker/leetcodeDumps/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/datracker/leetcodeDumps/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/datracker/leetcodeDumps/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/datracker/leetcodeDumps/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/datracker/leetcodeDumps/tree/master/1803-average-waiting-time) |
@@ -209,6 +210,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1511-count-number-of-teams](https://github.com/datracker/leetcodeDumps/tree/master/1511-count-number-of-teams) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/datracker/leetcodeDumps/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Backtracking
 |  |
@@ -254,4 +256,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/datracker/leetcodeDumps/tree/master/0948-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/datracker/leetcodeDumps/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
