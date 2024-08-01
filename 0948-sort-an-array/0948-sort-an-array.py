@@ -17,19 +17,19 @@ class Solution:
         right = 0
         res = []
 
-        while (left < len(nums1) and right < len(nums2)):
-            if (nums1[left] < nums2[right]):
+        while left < len(nums1) and right < len(nums2):
+            if nums1[left] < nums2[right]:
                 res.append(nums1[left])
                 left += 1
             else:
                 res.append(nums2[right])
                 right += 1
         
-        while (left < len(nums1)):
+        while left < len(nums1):
             res.append(nums1[left])
             left += 1
         
-        while (right < len(nums2)):
+        while right < len(nums2):
             res.append(nums2[right])
             right += 1
         
