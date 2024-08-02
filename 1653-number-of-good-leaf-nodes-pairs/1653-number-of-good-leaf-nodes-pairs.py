@@ -21,8 +21,16 @@ class Solution:
                 for d2 in right_dist:
                     if d1+d2 <= distance:
                         self.pairs += 1
+                        
+            all_dist = []
+            for d in left_dist:
+                if d <= distance:
+                    all_dist.append(d)
             
-            all_dist = left_dist + right_dist
+            for d in right_dist:
+                if d <= distance:
+                    all_dist.append(d)
+
             return [d+1 for d in all_dist]
         
         dfs(root)
