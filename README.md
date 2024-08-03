@@ -159,6 +159,7 @@
 | [2502-sort-the-people](https://github.com/datracker/leetcodeDumps/tree/master/2502-sort-the-people) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/datracker/leetcodeDumps/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2727-number-of-senior-citizens](https://github.com/datracker/leetcodeDumps/tree/master/2727-number-of-senior-citizens) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/datracker/leetcodeDumps/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Sorting
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 | ------- |
 | [0994-prison-cells-after-n-days](https://github.com/datracker/leetcodeDumps/tree/master/0994-prison-cells-after-n-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/datracker/leetcodeDumps/tree/master/1370-count-number-of-nice-subarrays) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/datracker/leetcodeDumps/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Sliding Window
 |  |
 | ------- |
