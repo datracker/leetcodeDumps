@@ -147,6 +147,7 @@
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/datracker/leetcodeDumps/tree/master/0040-combination-sum-ii) |
 | [0330-patching-array](https://github.com/datracker/leetcodeDumps/tree/master/0330-patching-array) |
 | [0948-sort-an-array](https://github.com/datracker/leetcodeDumps/tree/master/0948-sort-an-array) |
 | [0994-prison-cells-after-n-days](https://github.com/datracker/leetcodeDumps/tree/master/0994-prison-cells-after-n-days) |
@@ -223,6 +224,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/datracker/leetcodeDumps/tree/master/0040-combination-sum-ii) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/datracker/leetcodeDumps/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Tree
 |  |
