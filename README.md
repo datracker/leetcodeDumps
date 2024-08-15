@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/datracker/leetcodeDumps/tree/master/0330-patching-array) |
+| [0890-lemonade-change](https://github.com/datracker/leetcodeDumps/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/datracker/leetcodeDumps/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/datracker/leetcodeDumps/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Heap (Priority Queue)
@@ -149,6 +150,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/datracker/leetcodeDumps/tree/master/0040-combination-sum-ii) |
 | [0330-patching-array](https://github.com/datracker/leetcodeDumps/tree/master/0330-patching-array) |
+| [0890-lemonade-change](https://github.com/datracker/leetcodeDumps/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/datracker/leetcodeDumps/tree/master/0948-sort-an-array) |
 | [0994-prison-cells-after-n-days](https://github.com/datracker/leetcodeDumps/tree/master/0994-prison-cells-after-n-days) |
 | [1039-find-the-town-judge](https://github.com/datracker/leetcodeDumps/tree/master/1039-find-the-town-judge) |
