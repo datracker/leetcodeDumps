@@ -128,6 +128,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/datracker/leetcodeDumps/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/datracker/leetcodeDumps/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/datracker/leetcodeDumps/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/datracker/leetcodeDumps/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -221,6 +222,7 @@
 ## Stack
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/datracker/leetcodeDumps/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/datracker/leetcodeDumps/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Dynamic Programming
 |  |
@@ -236,6 +238,7 @@
 ## Tree
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/datracker/leetcodeDumps/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/datracker/leetcodeDumps/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/datracker/leetcodeDumps/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/datracker/leetcodeDumps/tree/master/1207-delete-nodes-and-return-forest) |
