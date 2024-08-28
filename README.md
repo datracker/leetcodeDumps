@@ -133,10 +133,12 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/datracker/leetcodeDumps/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/datracker/leetcodeDumps/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/datracker/leetcodeDumps/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2035-count-sub-islands](https://github.com/datracker/leetcodeDumps/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/datracker/leetcodeDumps/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2035-count-sub-islands](https://github.com/datracker/leetcodeDumps/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/datracker/leetcodeDumps/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/datracker/leetcodeDumps/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/datracker/leetcodeDumps/tree/master/1803-average-waiting-time) |
+| [2035-count-sub-islands](https://github.com/datracker/leetcodeDumps/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/datracker/leetcodeDumps/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2502-sort-the-people](https://github.com/datracker/leetcodeDumps/tree/master/2502-sort-the-people) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/datracker/leetcodeDumps/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -259,6 +262,7 @@
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/datracker/leetcodeDumps/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2035-count-sub-islands](https://github.com/datracker/leetcodeDumps/tree/master/2035-count-sub-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -291,4 +295,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/datracker/leetcodeDumps/tree/master/0789-kth-largest-element-in-a-stream) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/datracker/leetcodeDumps/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
