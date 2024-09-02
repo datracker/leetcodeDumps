@@ -169,6 +169,7 @@
 | [1803-average-waiting-time](https://github.com/datracker/leetcodeDumps/tree/master/1803-average-waiting-time) |
 | [2035-count-sub-islands](https://github.com/datracker/leetcodeDumps/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/datracker/leetcodeDumps/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2102-find-the-middle-index-in-array](https://github.com/datracker/leetcodeDumps/tree/master/2102-find-the-middle-index-in-array) |
 | [2502-sort-the-people](https://github.com/datracker/leetcodeDumps/tree/master/2502-sort-the-people) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/datracker/leetcodeDumps/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2727-number-of-senior-citizens](https://github.com/datracker/leetcodeDumps/tree/master/2727-number-of-senior-citizens) |
@@ -224,6 +225,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/datracker/leetcodeDumps/tree/master/0724-find-pivot-index) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/datracker/leetcodeDumps/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2102-find-the-middle-index-in-array](https://github.com/datracker/leetcodeDumps/tree/master/2102-find-the-middle-index-in-array) |
 ## Stack
 |  |
 | ------- |
