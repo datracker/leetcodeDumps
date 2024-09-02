@@ -154,6 +154,7 @@
 | [0040-combination-sum-ii](https://github.com/datracker/leetcodeDumps/tree/master/0040-combination-sum-ii) |
 | [0219-contains-duplicate-ii](https://github.com/datracker/leetcodeDumps/tree/master/0219-contains-duplicate-ii) |
 | [0330-patching-array](https://github.com/datracker/leetcodeDumps/tree/master/0330-patching-array) |
+| [0724-find-pivot-index](https://github.com/datracker/leetcodeDumps/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/datracker/leetcodeDumps/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/datracker/leetcodeDumps/tree/master/0948-sort-an-array) |
 | [0994-prison-cells-after-n-days](https://github.com/datracker/leetcodeDumps/tree/master/0994-prison-cells-after-n-days) |
@@ -221,6 +222,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/datracker/leetcodeDumps/tree/master/0724-find-pivot-index) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/datracker/leetcodeDumps/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Stack
 |  |
