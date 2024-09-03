@@ -128,6 +128,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/datracker/leetcodeDumps/tree/master/0207-course-schedule) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/datracker/leetcodeDumps/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/datracker/leetcodeDumps/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/datracker/leetcodeDumps/tree/master/1207-delete-nodes-and-return-forest) |
@@ -137,16 +138,19 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/datracker/leetcodeDumps/tree/master/0207-course-schedule) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/datracker/leetcodeDumps/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2035-count-sub-islands](https://github.com/datracker/leetcodeDumps/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/datracker/leetcodeDumps/tree/master/0207-course-schedule) |
 | [1039-find-the-town-judge](https://github.com/datracker/leetcodeDumps/tree/master/1039-find-the-town-judge) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/datracker/leetcodeDumps/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/datracker/leetcodeDumps/tree/master/0207-course-schedule) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/datracker/leetcodeDumps/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Array
 |  |
