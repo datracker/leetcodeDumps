@@ -174,6 +174,7 @@
 | [2035-count-sub-islands](https://github.com/datracker/leetcodeDumps/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/datracker/leetcodeDumps/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2102-find-the-middle-index-in-array](https://github.com/datracker/leetcodeDumps/tree/master/2102-find-the-middle-index-in-array) |
+| [2155-find-missing-observations](https://github.com/datracker/leetcodeDumps/tree/master/2155-find-missing-observations) |
 | [2502-sort-the-people](https://github.com/datracker/leetcodeDumps/tree/master/2502-sort-the-people) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/datracker/leetcodeDumps/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2727-number-of-senior-citizens](https://github.com/datracker/leetcodeDumps/tree/master/2727-number-of-senior-citizens) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/datracker/leetcodeDumps/tree/master/1803-average-waiting-time) |
+| [2155-find-missing-observations](https://github.com/datracker/leetcodeDumps/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/datracker/leetcodeDumps/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Hash Table
 |  |
@@ -213,6 +215,7 @@
 | ------- |
 | [0994-prison-cells-after-n-days](https://github.com/datracker/leetcodeDumps/tree/master/0994-prison-cells-after-n-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/datracker/leetcodeDumps/tree/master/1370-count-number-of-nice-subarrays) |
+| [2155-find-missing-observations](https://github.com/datracker/leetcodeDumps/tree/master/2155-find-missing-observations) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/datracker/leetcodeDumps/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Sliding Window
 |  |
