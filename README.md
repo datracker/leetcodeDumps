@@ -177,6 +177,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/datracker/leetcodeDumps/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2102-find-the-middle-index-in-array](https://github.com/datracker/leetcodeDumps/tree/master/2102-find-the-middle-index-in-array) |
 | [2155-find-missing-observations](https://github.com/datracker/leetcodeDumps/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/datracker/leetcodeDumps/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/datracker/leetcodeDumps/tree/master/2502-sort-the-people) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/datracker/leetcodeDumps/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2727-number-of-senior-citizens](https://github.com/datracker/leetcodeDumps/tree/master/2727-number-of-senior-citizens) |
@@ -197,12 +198,14 @@
 | [1484-linked-list-in-binary-tree](https://github.com/datracker/leetcodeDumps/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/datracker/leetcodeDumps/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/datracker/leetcodeDumps/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/datracker/leetcodeDumps/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/datracker/leetcodeDumps/tree/master/1803-average-waiting-time) |
 | [2155-find-missing-observations](https://github.com/datracker/leetcodeDumps/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/datracker/leetcodeDumps/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/datracker/leetcodeDumps/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -280,6 +283,7 @@
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/datracker/leetcodeDumps/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2035-count-sub-islands](https://github.com/datracker/leetcodeDumps/tree/master/2035-count-sub-islands) |
+| [2411-spiral-matrix-iv](https://github.com/datracker/leetcodeDumps/tree/master/2411-spiral-matrix-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
