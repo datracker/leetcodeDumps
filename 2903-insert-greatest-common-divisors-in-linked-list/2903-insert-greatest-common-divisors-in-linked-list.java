@@ -22,21 +22,33 @@ class Solution {
         return head;
     }
 
-    int getGcd(int a, int b) {
-        if (a == b) return a;
-        if (b > a) {
-            int temp = b;
-            b = a;
-            a = temp;
+    public int getGcd(int a, int b){
+        if(a == 1 || b==1){
+            return 1;
         }
-
-        int divider = 1;
-        int div = b / divider;
-        while (div > 1) {
-            if (a % div == 0 && b % div == 0) return div;
-            divider++;
-            div = b / divider;
+        while(b !=0){
+            int rem = a % b;
+            a = b;
+            b= rem;
         }
-        return 1;
+        return a;
     }
+    
+    // int getGcd(int a, int b) {
+    //     if (a == b) return a;
+    //     if (b > a) {
+    //         int temp = b;
+    //         b = a;
+    //         a = temp;
+    //     }
+
+    //     int divider = 1;
+    //     int div = b / divider;
+    //     while (div > 1) {
+    //         if (a % div == 0 && b % div == 0) return div;
+    //         divider++;
+    //         div = b / divider;
+    //     }
+    //     return 1;
+    // }
 }
