@@ -1,34 +1,38 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        List<List<Integer>> table = new ArrayList<>();
+        List<Integer>[] adjList = new ArrayList[numCourses];
+        int[] indegree = new int[numCourses];
+
         for (int i = 0; i < numCourses; i++) {
-            table.add(new ArrayList<>());
+            adjList[i] = new ArrayList<>();
         }
 
-        for (int[] courses: prerequisites) {
-            table.get(courses[1]).add(courses[0]);
+        for (int[] prereq : prerequisites) {
+            int u = prereq[1];
+            int v = prereq[0];
+            adjList[u].add(v);
+            indegree[v]++;
         }
 
-        int[] visitMarker = new int[numCourses];
-        for (int course = 0; course < numCourses; course++) {
-            if (visitMarker[course] == 0 && dfs(course, table, visitMarker) == false) {
-                return false;
+        Queue<Integer> q = new LinkedList<>();
+        for (int i = 0; i < numCourses; i++) {
+            if (indegree[i] == 0) {
+                q.offer(i);
             }
         }
-        return true;
-    }
 
-    boolean dfs(int course, List<List<Integer>> table, int[] visitMarker) {
-        //0 = notvisited, 1 = visiting, 2 = visited
-        if (visitMarker[course] == 2) return true;
-        if (visitMarker[course] == 1) return false;
-        
-        visitMarker[course] = 1;
-        for (int childCourse : table.get(course)) {
-            if (dfs(childCourse, table, visitMarker) == false) return false;
+        int nodeVisited = 0; 
+        while (!q.isEmpty()) {
+            int node = q.poll();
+            nodeVisited++;
+            for (int neighbor : adjList[node]) {
+                indegree[neighbor]--;
+                if (indegree[neighbor] == 0) {
+                    q.offer(neighbor);
+                }
+            }
         }
 
-        visitMarker[course] = 2;
-        return true;
+        return nodeVisited == numCourses;
     }
 }
