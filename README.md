@@ -186,6 +186,7 @@
 | [2155-find-missing-observations](https://github.com/datracker/leetcodeDumps/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/datracker/leetcodeDumps/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/datracker/leetcodeDumps/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/datracker/leetcodeDumps/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/datracker/leetcodeDumps/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2727-number-of-senior-citizens](https://github.com/datracker/leetcodeDumps/tree/master/2727-number-of-senior-citizens) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/datracker/leetcodeDumps/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -247,6 +248,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/datracker/leetcodeDumps/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/datracker/leetcodeDumps/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/datracker/leetcodeDumps/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/datracker/leetcodeDumps/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -339,4 +341,8 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/datracker/leetcodeDumps/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/datracker/leetcodeDumps/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
