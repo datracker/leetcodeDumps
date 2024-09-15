@@ -109,6 +109,7 @@
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/datracker/leetcodeDumps/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/datracker/leetcodeDumps/tree/master/1304-longest-happy-string) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/datracker/leetcodeDumps/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/datracker/leetcodeDumps/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/datracker/leetcodeDumps/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2502-sort-the-people](https://github.com/datracker/leetcodeDumps/tree/master/2502-sort-the-people) |
@@ -223,6 +224,7 @@
 | [1039-find-the-town-judge](https://github.com/datracker/leetcodeDumps/tree/master/1039-find-the-town-judge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/datracker/leetcodeDumps/tree/master/1207-delete-nodes-and-return-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/datracker/leetcodeDumps/tree/master/1370-count-number-of-nice-subarrays) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/datracker/leetcodeDumps/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/datracker/leetcodeDumps/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/datracker/leetcodeDumps/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/datracker/leetcodeDumps/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -245,6 +247,7 @@
 | ------- |
 | [0994-prison-cells-after-n-days](https://github.com/datracker/leetcodeDumps/tree/master/0994-prison-cells-after-n-days) |
 | [1435-xor-queries-of-a-subarray](https://github.com/datracker/leetcodeDumps/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/datracker/leetcodeDumps/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/datracker/leetcodeDumps/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/datracker/leetcodeDumps/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/datracker/leetcodeDumps/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -254,6 +257,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/datracker/leetcodeDumps/tree/master/0724-find-pivot-index) |
 | [1435-xor-queries-of-a-subarray](https://github.com/datracker/leetcodeDumps/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/datracker/leetcodeDumps/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/datracker/leetcodeDumps/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/datracker/leetcodeDumps/tree/master/2102-find-the-middle-index-in-array) |
 ## Stack
