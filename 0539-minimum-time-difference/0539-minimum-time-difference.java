@@ -5,14 +5,13 @@ class Solution {
             return 0;
         }
 
-        boolean[] seen = new boolean[TOTAL_MINS];
+        BitSet seen = new BitSet(TOTAL_MINS);
         for (String time : timePoints) {
             int min = convertToMin(time);
-            if (seen[min]) {
+            if (seen.get(min)) {
                 return 0;
-            }
-            else {
-                seen[min] = true;
+            } else {
+                seen.set(min);
             }
         }
 
@@ -20,7 +19,7 @@ class Solution {
         int minDiff = Integer.MAX_VALUE;
         
         for (int i = 0; i < 1440; i++) {
-            if (seen[i]) {
+            if (seen.get(i)) {
                 if (first == Integer.MAX_VALUE) {
                     first = i;
                 } else {
