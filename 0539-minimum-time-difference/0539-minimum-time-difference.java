@@ -1,42 +1,49 @@
 class Solution {
     public int findMinDifference(List<String> timePoints) {
-        Collections.sort(timePoints);
-        int minDiff = Integer.MAX_VALUE;
-
-        for (int i = 0; i < timePoints.size()-1; i++) {
-            String nexTime = timePoints.get(i+1);
-            String currTime = timePoints.get(i);
-            int diff = getDiffInMinutes(currTime, nexTime);
-            minDiff = Math.min(minDiff, diff);
+        final int TOTAL_MINS = 24 * 60;
+        if (timePoints.size() >= TOTAL_MINS) {
+            return 0;
         }
 
-        int hour = Integer.parseInt(timePoints.get(0).substring(0, 2));
-        hour += 24;
-        String nexTime = "" + hour + timePoints.get(0).substring(2);
-        String currTime = timePoints.get(timePoints.size()-1);
-        int diff = getDiffInMinutes(currTime, nexTime);
-        minDiff = Math.min(minDiff, diff);
+        boolean[] seen = new boolean[TOTAL_MINS];
+        for (String time : timePoints) {
+            int min = convertToMin(time);
+            if (seen[min]) {
+                return 0;
+            }
+            else {
+                seen[min] = true;
+            }
+        }
 
+        int first = Integer.MAX_VALUE, prev = Integer.MAX_VALUE;
+        int minDiff = Integer.MAX_VALUE;
+        
+        for (int i = 0; i < 1440; i++) {
+            if (seen[i]) {
+                if (first == Integer.MAX_VALUE) {
+                    first = i;
+                } else {
+                    minDiff = Math.min(minDiff, i - prev);
+                }
+                prev = i;
+            }
+        }
+        
+
+        minDiff = Math.min(minDiff, 1440 - prev + first);
 
         return minDiff;
-
     }
 
-    int getDiffInMinutes(String currTime, String nexTime) {
-        int diff = 0;
-        int currHour = Integer.parseInt(currTime.substring(0, 2));
-        int nexHour = Integer.parseInt(nexTime.substring(0, 2));
-        int currMin = Integer.parseInt(currTime.substring(3));
-        int nexMin = Integer.parseInt(nexTime.substring(3));
+    int convertToMin(String time) {
+        int mins = 0;
+        mins += ((time.charAt(0) - '0') * 10);
+        mins += (time.charAt(1) - '0');
+        mins *= 60;
+        mins += ((time.charAt(3) - '0') * 10);
+        mins += (time.charAt(4) - '0');
 
-        if (nexMin < currMin) {
-            nexMin += 60;
-            nexHour -= 1;
-        }
-
-        diff += nexMin - currMin;
-        diff += ((nexHour - currHour) * 60);
-
-        return diff;
+        return mins;
     }
 }
