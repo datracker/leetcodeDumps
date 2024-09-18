@@ -107,6 +107,7 @@
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/datracker/leetcodeDumps/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/datracker/leetcodeDumps/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/datracker/leetcodeDumps/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/datracker/leetcodeDumps/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -119,6 +120,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/datracker/leetcodeDumps/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/datracker/leetcodeDumps/tree/master/0330-patching-array) |
 | [0890-lemonade-change](https://github.com/datracker/leetcodeDumps/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/datracker/leetcodeDumps/tree/master/1304-longest-happy-string) |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/datracker/leetcodeDumps/tree/master/0040-combination-sum-ii) |
+| [0179-largest-number](https://github.com/datracker/leetcodeDumps/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/datracker/leetcodeDumps/tree/master/0219-contains-duplicate-ii) |
 | [0330-patching-array](https://github.com/datracker/leetcodeDumps/tree/master/0330-patching-array) |
 | [0539-minimum-time-difference](https://github.com/datracker/leetcodeDumps/tree/master/0539-minimum-time-difference) |
@@ -197,6 +200,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/datracker/leetcodeDumps/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/datracker/leetcodeDumps/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/datracker/leetcodeDumps/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/datracker/leetcodeDumps/tree/master/1333-sort-the-jumbled-numbers) |
