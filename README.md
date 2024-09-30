@@ -183,6 +183,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/datracker/leetcodeDumps/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/datracker/leetcodeDumps/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/datracker/leetcodeDumps/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/datracker/leetcodeDumps/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/datracker/leetcodeDumps/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/datracker/leetcodeDumps/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/datracker/leetcodeDumps/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -277,6 +278,7 @@
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/datracker/leetcodeDumps/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/datracker/leetcodeDumps/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/datracker/leetcodeDumps/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -347,6 +349,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/datracker/leetcodeDumps/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/datracker/leetcodeDumps/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Data Stream
 |  |
 | ------- |
