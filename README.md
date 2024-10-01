@@ -213,6 +213,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/datracker/leetcodeDumps/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/datracker/leetcodeDumps/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/datracker/leetcodeDumps/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/datracker/leetcodeDumps/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -230,6 +231,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/datracker/leetcodeDumps/tree/master/0219-contains-duplicate-ii) |
+| [0432-all-oone-data-structure](https://github.com/datracker/leetcodeDumps/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/datracker/leetcodeDumps/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0994-prison-cells-after-n-days](https://github.com/datracker/leetcodeDumps/tree/master/0994-prison-cells-after-n-days) |
 | [1039-find-the-town-judge](https://github.com/datracker/leetcodeDumps/tree/master/1039-find-the-town-judge) |
@@ -348,6 +350,7 @@
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/datracker/leetcodeDumps/tree/master/0432-all-oone-data-structure) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/datracker/leetcodeDumps/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/datracker/leetcodeDumps/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Data Stream
@@ -374,4 +377,8 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/datracker/leetcodeDumps/tree/master/0241-different-ways-to-add-parentheses) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/datracker/leetcodeDumps/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
