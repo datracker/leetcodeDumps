@@ -197,6 +197,7 @@
 | [2411-spiral-matrix-iv](https://github.com/datracker/leetcodeDumps/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/datracker/leetcodeDumps/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/datracker/leetcodeDumps/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/datracker/leetcodeDumps/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/datracker/leetcodeDumps/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2727-number-of-senior-citizens](https://github.com/datracker/leetcodeDumps/tree/master/2727-number-of-senior-citizens) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/datracker/leetcodeDumps/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -210,6 +211,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/datracker/leetcodeDumps/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/datracker/leetcodeDumps/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/datracker/leetcodeDumps/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/datracker/leetcodeDumps/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/datracker/leetcodeDumps/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Linked List
 |  |
@@ -244,6 +246,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/datracker/leetcodeDumps/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/datracker/leetcodeDumps/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2502-sort-the-people](https://github.com/datracker/leetcodeDumps/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/datracker/leetcodeDumps/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
 | ------- |
@@ -384,4 +387,8 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/datracker/leetcodeDumps/tree/master/0432-all-oone-data-structure) |
+## Two Pointers
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/datracker/leetcodeDumps/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
