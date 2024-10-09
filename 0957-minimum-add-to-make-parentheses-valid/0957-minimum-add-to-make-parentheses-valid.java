@@ -1,23 +1,22 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        Stack<Character> stk = new Stack<>();
-        int count = 0;
+        int openBrackets = 0;
+        int bracketsNeeded = 0;
         
         for (char c : s.toCharArray()) {
             if (c == '(') {
-                stk.push(c);
+                openBrackets++;
             }
             else {
-                if (!stk.isEmpty() && stk.peek() == '(') {
-                    stk.pop();
+                if (openBrackets > 0) {
+                    openBrackets--;
                 }
                 else {
-                    count++;
+                    bracketsNeeded++;
                 }
             }
         }
 
-        count += stk.size();
-        return count;
+        return openBrackets + bracketsNeeded;
     }
 }
