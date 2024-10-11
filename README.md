@@ -135,6 +135,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/datracker/leetcodeDumps/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/datracker/leetcodeDumps/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/datracker/leetcodeDumps/tree/master/1304-longest-happy-string) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/datracker/leetcodeDumps/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/datracker/leetcodeDumps/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/datracker/leetcodeDumps/tree/master/1803-average-waiting-time) |
 | [2035-count-sub-islands](https://github.com/datracker/leetcodeDumps/tree/master/2035-count-sub-islands) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/datracker/leetcodeDumps/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/datracker/leetcodeDumps/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2102-find-the-middle-index-in-array](https://github.com/datracker/leetcodeDumps/tree/master/2102-find-the-middle-index-in-array) |
 | [2155-find-missing-observations](https://github.com/datracker/leetcodeDumps/tree/master/2155-find-missing-observations) |
@@ -251,6 +253,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/datracker/leetcodeDumps/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/datracker/leetcodeDumps/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/datracker/leetcodeDumps/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/datracker/leetcodeDumps/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/datracker/leetcodeDumps/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2502-sort-the-people](https://github.com/datracker/leetcodeDumps/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/datracker/leetcodeDumps/tree/master/2581-divide-players-into-teams-of-equal-skill) |
