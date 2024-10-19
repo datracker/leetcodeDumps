@@ -115,6 +115,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/datracker/leetcodeDumps/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/datracker/leetcodeDumps/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/datracker/leetcodeDumps/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/datracker/leetcodeDumps/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/datracker/leetcodeDumps/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/datracker/leetcodeDumps/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2502-sort-the-people](https://github.com/datracker/leetcodeDumps/tree/master/2502-sort-the-people) |
@@ -233,6 +234,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/datracker/leetcodeDumps/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/datracker/leetcodeDumps/tree/master/1803-average-waiting-time) |
 | [2155-find-missing-observations](https://github.com/datracker/leetcodeDumps/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/datracker/leetcodeDumps/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -391,6 +393,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/datracker/leetcodeDumps/tree/master/0241-different-ways-to-add-parentheses) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/datracker/leetcodeDumps/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
 | ------- |
