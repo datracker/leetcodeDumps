@@ -142,6 +142,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/datracker/leetcodeDumps/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/datracker/leetcodeDumps/tree/master/0210-course-schedule-ii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/datracker/leetcodeDumps/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/datracker/leetcodeDumps/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/datracker/leetcodeDumps/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/datracker/leetcodeDumps/tree/master/1207-delete-nodes-and-return-forest) |
@@ -154,6 +155,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/datracker/leetcodeDumps/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/datracker/leetcodeDumps/tree/master/0210-course-schedule-ii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/datracker/leetcodeDumps/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/datracker/leetcodeDumps/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/datracker/leetcodeDumps/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/datracker/leetcodeDumps/tree/master/2035-count-sub-islands) |
@@ -315,6 +317,7 @@
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/datracker/leetcodeDumps/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/datracker/leetcodeDumps/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/datracker/leetcodeDumps/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/datracker/leetcodeDumps/tree/master/0975-range-sum-of-bst) |
@@ -329,6 +332,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/datracker/leetcodeDumps/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/datracker/leetcodeDumps/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/datracker/leetcodeDumps/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/datracker/leetcodeDumps/tree/master/1207-delete-nodes-and-return-forest) |
